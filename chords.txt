@@ -1,0 +1,71 @@
+Augmented chord	0 4 8
+Augmented eleventh chord[1]	0 4 7 t 2 6
+Augmented major seventh chord	0 4 8 e
+Augmented seventh chord	0 4 8 t
+Augmented sixth chord	0 6 t
+Diminished chord	0 3 6
+Diminished major seventh chord	0 3 6 e
+Diminished seventh chord (leading-tone and secondary chord)	0 3 6 9
+Dominant	0 4 7
+Dominant eleventh chord	0 4 7 t 2 5
+Dominant minor ninth	0 4 7 t 1
+Dominant ninth	0 4 7 t 2
+Dominant parallel	0 3 7
+Dominant seventh chord	0 4 7 t
+Dominant seventh flat five chord	0 4 6 t
+Dominant seventh sharp nine / Hendrix chord	0 4 7 t 3
+Dominant thirteenth chord	0 4 7 t 2 5 9
+Dream chord	0 5 6 7
+Elektra chord	0 7 9 1 4
+Farben chord	0 8 e 4 9
+Half-diminished seventh chord	0 3 6 t
+Harmonic seventh chord	0 4 7 t
+Leading-tone triad	0 3 6
+Lydian chord	0 4 7 e 6
+Magic chord	0 1 5 6 t 0 3 5
+Major chord	0 4 7
+Major eleventh chord	0 4 7 e 2 5
+Major seventh chord	0 4 7 e
+Major seventh sharp eleventh chord	0 4 8 e 6
+Major sixth chord	0 4 7 9
+Major sixth ninth chord ("6 add 9",[2] Nine six,[3] 6/9)	0 4 7 9 2
+Major ninth chord	0 4 7 e 2
+Major thirteenth chord	0 4 7 e 2 6 9
+Mediant	0 3 7 
+Minor chord	0 3 7
+Minor eleventh chord	0 3 7 t 2 5
+Minor major seventh chord	0 3 7 e
+Minor ninth chord	0 3 7 t 2
+Minor seventh chord	0 3 7 t
+Minor sixth chord	0 3 7 9
+Minor sixth ninth chord (6/9)	0 3 7 9 2
+Minor thirteenth chord	0 3 7 t 2 5 9
+Mu chord	0 2 4 7
+Mystic chord	0 6 t 4 9 2
+Neapolitan chord	1 5 8
+Ninth augmented fifth chord[2][4]	0 4 8 t 2
+Ninth flat fifth chord[2]	0 4 6 t 2
+Northern lights chord	1 2 8 0 3 6 7 t e 4 7
+"Ode-to-Napoleon" hexachord	0 1 4 5 8 9
+Petrushka chord	0 1 4 6 7 t
+Power chord	0 7
+Psalms chord	0 3 7
+Secondary dominant	0 4 7
+Secondary leading-tone chord	0 3 6
+Secondary supertonic chord	0 3 7
+Seven six chord[5]	0 4 7 9 t
+Seventh suspension four chord[6]	0 5 7 t
+So What chord	0 5 t 3 7
+Suspended chord	0 5 7
+Subdominant	0 4 7
+Subdominant parallel	0 3 7
+Submediant	0 3 7
+Subtonic	0 4 7
+Supertonic	0 3 7
+Thirteenth flat ninth chord[2]	0 4 7 t 1 x 9
+Thirteenth flat ninth flat fifth chord[2]	0 4 6 t 1 x 9
+Tonic counter parallel	0 3 7
+Tonic	0 4 7
+Tonic parallel	0 3 7
+Tristan chord	0 3 6 t
+Viennese trichord	0 1 6
