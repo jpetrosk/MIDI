@@ -9,12 +9,12 @@ Bits and pieces of these goals have been completed already by others. Tying thes
 
 Presently, I'm thinking of using something like a prime number encoding of MIDI notes to represent music. I do not quite know what purpose this will serve, or what use it will have, but it seems like fun to me.
 
-##Goals
+## Goals
 There exist tools to move between MIDI and MusicXML and other, related, ways of representing musical information on a computer. These are useful since software exists that can play the music and generate more traditional visual representations. The primary goal should therefore be to be able to convert from a string of intergers representing notes and chords and transform it into a more portable form (ie any format that can be converted freely between other music formats).
 
 The other, more interesting, goal is to make tools to analyze and generate the strings of encoded intergers which can be translated into a playable format (goal 1).
 
-##Prime Number Encoding
+## Prime Number Encoding
 The prime encoding for the octave starting from Middle C is:
 
 Letter Note | MIDI Number | Prime Encoding
