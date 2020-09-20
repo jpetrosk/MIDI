@@ -216,6 +216,13 @@ def factorization(n):
         n //= next
     return factors
 
+def factor(Interger):
+    result=[]
+    for i in Primes[0:128]:
+        if Interger%i==0:
+            result.append(i)
+    return result
+
 def NoteLookup(Prime):
     #Converts a prime number into a MIDI note number
     return Primes.index(Prime)
